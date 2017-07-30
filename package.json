@@ -1,0 +1,23 @@
+{
+  "name": "jsonapi-server-chainhandler-error",
+  "version": "1.0.0",
+  "description": "A PR to reproduce an error that happens when using a chainhandler on create",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heller166/jsonapi-server-chainhandler-error.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heller166/jsonapi-server-chainhandler-error/issues"
+  },
+  "homepage": "https://github.com/heller166/jsonapi-server-chainhandler-error#readme",
+  "dependencies": {
+    "jsonapi-server": "^3.0.3"
+  }
+}
